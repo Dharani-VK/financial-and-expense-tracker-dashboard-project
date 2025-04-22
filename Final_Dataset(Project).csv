@@ -1,0 +1,538 @@
+Month,Type,Category,Sub-category,Amount,Status Fixed,Clean Category,Clean_Sub-category
+Jan,Income,Allowance,From dad,8000.00,Received,Allowance,From Dad
+Jan,Expense,Food,Snacks,85.00,Paid,Food,Snacks
+Jan,Income,Other,From dad,500.00,Received,Other,From Dad
+Jan,Expense,Household,Stuffs,6667.00,Paid,Household,Stuffs
+Jan,Expense,Transportation,Metro,30.00,Paid,Transportation,Metro
+Jan,Expense,Food,Dinner,78.00,Paid,Food,Dinner
+Jan,Expense,Food,Lunch with company,1460.00,Paid,Food,Lunch With Company
+Jan,Expense,Transportation,Rapido to pg,43.00,Paid,Transportation,Rapido To Pg
+Jan,Expense,Food,Dinner,66.00,Paid,Food,Dinner
+Jan,Income,Other,Gugan + prasanna,340.00,Received,Other,Gugan + Prasanna
+Jan,Income,Other,From dad,1500.00,Received,Other,From Dad
+Jan,Expense,Food,Snacks,70.00,Paid,Food,Snacks
+Jan,Expense,Food,Eve snack,1100.00,Paid,Food,Eve Snack
+Jan,Expense,Food,Lunch with company,148.00,Paid,Food,Lunch With Company
+Jan,Expense,Food,Snack with preethi,59.00,Paid,Food,Snack With Preethi
+Jan,Expense,Food,Dinner,301.15,Paid,Food,Dinner
+Jan,Expense,Food,Lunch + chocolate for preethi,171.00,Paid,Food,Lunch + Chocolate For Preethi
+Jan,Income,Other,From vicky,200.00,Received,Other,From Vicky
+Jan,Expense,Food,Snacks,37.00,Paid,Food,Snacks
+Jan,Expense,Food,Lunch with company,188.00,Paid,Food,Lunch With Company
+Jan,Income,Other,From dad,2000.00,Received,Other,From Dad
+Jan,Expense,Food,Snacks with preethi and azar,176.00,Paid,Food,Snacks With Preethi And Azar
+Jan,Expense,apparel,Badminton,200.00,Paid,Apparel,Badminton
+Jan,Income,Other,From vicky,310.00,Received,Other,From Vicky
+Jan,Expense,Food,Lemon tea,18.00,Paid,Food,Lemon Tea
+Jan,Expense,Food,Paani poori,25.00,Paid,Food,Paani Poori
+Jan,Income,Other,Vishnu 100 gowdham 25,125.00,Received,Other,Vishnu 100 Gowdham 25
+Jan,Expense,Food,Snacks,115.00,Paid,Food,Snacks
+Jan,Income,salary,office,55000.00,Received,Salary,Office
+Jan,Expense,Food,Zinger box meal,279.00,Paid,Food,Zinger Box Meal
+Jan,Expense,Other,To vishnu,1100.00,Paid,Other,To Vishnu
+Jan,Expense,Food,Lunch with company,138.00,Paid,Food,Lunch With Company
+Jan,Expense,Food,Banana,10.00,Paid,Food,Banana
+Jan,Expense,Other,Sent to barath,100.00,Paid,Other,Sent To Barath
+Jan,Expense,Food,Brunch,105.00,Paid,Food,Brunch
+Jan,Expense,Food,Cycle gap ,120.00,Paid,Food,Cycle Gap
+Jan,Expense,Food,Dinner,155.00,Paid,Food,Dinner
+Jan,Expense,Other,To vicky,200.00,Paid,Other,To Vicky
+Feb,Expense,Transportation,Train to vnr,725.00,Paid,Transportation,Train To Vnr
+Feb,Expense,Food,Dinner with barath,200.00,Paid,Food,Dinner With Barath
+Feb,Expense,Other,Tablet to gowdham,8.00,Paid,Other,Tablet To Gowdham
+Feb,Expense,Food,Parotta,120.00,Paid,Food,Parotta
+Feb,Expense,Food,Brownie,50.00,Paid,Food,Brownie
+Feb,Expense,apparel,Games ,100.00,Paid,Apparel,Games
+Feb,Expense,Food,Kfc ,475.00,Paid,Food,Kfc
+Feb,Expense,Food,Side dishes,165.00,Paid,Food,Side Dishes
+Feb,Expense,Food,Lunch,80.00,Paid,Food,Lunch
+Feb,Expense,Food,Kfc dinner,348.00,Paid,Food,Kfc Dinner
+Feb,Expense,Transportation,To egmore,2709.00,Paid,Transportation,To Egmore
+Feb,Expense,Other,To auto anna,50.00,Paid,Other,To Auto Anna
+Feb,Expense,Transportation,Metro,60.00,Paid,Transportation,Metro
+Feb,Expense,Transportation,Bus ticket,1575.00,Paid,Transportation,Bus Ticket
+Feb,Expense,Food,Snacks,250.00,Paid,Food,Snacks
+Feb,Expense,Food,Random stuff for drinks,111.00,Paid,Food,Random Stuff For Drinks
+Feb,Expense,Food,Lunch,200.00,Paid,Food,Lunch
+Feb,Expense,Transportation,Train cbe to chn,201.80,Paid,Transportation,Train Cbe To Chn
+Feb,Expense,Household,Stuffs,3336.00,Paid,Household,Stuffs
+Feb,Expense,Transportation,It better be worth it,1300.00,Paid,Transportation,It Better Be Worth It
+Feb,Expense,Food,Eggs,83.00,Paid,Food,Eggs
+Feb,Expense,Apparel,Hoodie for gobi,3999.00,Paid,Apparel,Hoodie For Gobi
+Feb,Expense,Food,Creamstone,289.00,Paid,Food,Creamstone
+Feb,Expense,Food,Tea lights,84.00,Paid,Food,Tea Lights
+Feb,Expense,Other,To karthi,100.00,Paid,Other,To Karthi
+Feb,Expense,Food,Lunch,243.00,Paid,Food,Lunch
+Feb,Income,salary,office,55000.00,Received,Salary,Office
+Feb,Expense,Food,Pizza,339.15,Paid,Food,Pizza
+Mar,Income,Other,From abi,300.00,Received,Other,From Abi
+Mar,Expense,Food,Lunch unlimited nv,300.00,Paid,Food,Lunch Unlimited Nv
+Mar,Income,Other,From shakur,1140.00,Received,Other,From Shakur
+Mar,Income,Other,From barath,201.00,Received,Other,From Barath
+Mar,Expense,Food,Dairy milk,10.00,Paid,Food,Dairy Milk
+Mar,Expense,Other,To gowdham,150.00,Paid,Other,To Gowdham
+Mar,Expense,Food,Good soup,50.00,Paid,Food,Good Soup
+Mar,Expense,Transportation,Bus to Bangalore,1365.00,Paid,Transportation,Bus To Bangalore
+Mar,Income,salary,office,55000.00,Received,Salary,Office
+Mar,Expense,Household,Stuffs,5120.00,Paid,Household,Stuffs
+Mar,Expense,Apparel,Earphone,3997.00,Paid,Apparel,Earphone
+Mar,Expense,Transportation,To ksr station,153.00,Paid,Transportation,To Ksr Station
+Apr,Expense,Food,Sent to preethi,107.00,Paid,Food,Sent To Preethi
+Apr,Expense,Other,To vicky,80.00,Paid,Other,To Vicky
+Apr,Expense,Food,Lunch with company,106.00,Paid,Food,Lunch With Company
+Apr,Expense,Education,Arrear and reval fee,14000.00,Paid,Education,Arrear And Reval Fee
+Apr,Expense,Other,To lended people,300.00,Paid,Other,To Lended People
+Apr,Expense,Transportation,Took from sbi,200.00,Paid,Transportation,Took From Sbi
+Apr,Expense,Food,Ramen with gobi,380.00,Paid,Food,Ramen With Gobi
+Apr,Income,Salary,office,55000.00,Received,Salary,Office
+Apr,Expense,Household,Stuffs,5180.00,Paid,Household,Stuffs
+Apr,Expense,Food,Shawarma,80.00,Paid,Food,Shawarma
+Apr,Expense,Transportation,Cab,306.00,Paid,Transportation,Cab
+May,Expense,Food,Lunch with company,388.00,Paid,Food,Lunch With Company
+May,Expense,Transportation,Refund for bus ticket,600.00,Paid,Transportation,Refund For Bus Ticket
+May,Expense,Other,To abijith and to vicky lend money returned,500.00,Paid,Other,To Abijith And To Vicky Lend Money Returned
+May,Expense,Other,To gobi 1st 1/4th,500.00,Paid,Other,To Gobi 1St 1/4Th
+May,Expense,Other,Lended money returned to kumara,30.00,Paid,Other,Lended Money Returned To Kumara
+May,Expense,Food,Jan 2nd with shakur and barath,354.00,Paid,Food,Jan 2Nd With Shakur And Barath
+May,Expense,Other,Lended money returned to vishnu,40.00,Paid,Other,Lended Money Returned To Vishnu
+May,Expense,apparel,Spiderman ,1363.72,Paid,Apparel,Spiderman
+May,Income,salary,office,55000.00,Received,Salary,Office
+May,Expense,Household,Stuffs,5120.00,Paid,Household,Stuffs
+May,Expense,Transportation,Vnr to apk,50.00,Paid,Transportation,Vnr To Apk
+Jun,Expense,Transportation,Rapido to pg,429.00,Paid,Transportation,Rapido To Pg
+Jun,Expense,Food,Bingo,10.00,Paid,Food,Bingo
+Jun,Expense,Food,Dinner with roommate,877.81,Paid,Food,Dinner With Roommate
+Jun,Expense,Food,Ketch up,200.00,Paid,Food,Ketch Up
+Jun,Income,Other,From barath and shakur,440.00,Received,Other,From Barath And Shakur
+Jun,Expense,Other,To gobi,4500.00,Paid,Other,To Gobi
+Jun,Expense,Transportation,To chennai,1000.00,Paid,Transportation,To Chennai
+Jun,Expense,Food,To kumara,150.00,Paid,Food,To Kumara
+Jun,Expense,Food,Cakepark,125.00,Paid,Food,Cakepark
+Jun,Expense,Food,Dinner with aravind and buddies,491.00,Paid,Food,Dinner With Aravind And Buddies
+Jun,Expense,Food,Snacks,749.00,Paid,Food,Snacks
+Jun,Expense,Household,Stuffs,4120.00,Paid,Household,Stuffs
+Jun,Income,salary,office,55000.00,Received,Salary,Office
+Jul,Expense,Food,Coffee + biscuit,1599.00,Paid,Food,Coffee + Biscuit
+Jul,Expense,Transportation,Auto to Gobi's place,214.00,Paid,Transportation,Auto To Gobi'S Place
+Jul,Expense,Other,To kumara,200.00,Paid,Other,To Kumara
+Jul,Expense,Household,Stuffs,4620.00,Paid,Household,Stuffs
+Jul,Expense,Food,Lunch,302.00,Paid,Food,Lunch
+Jul,Expense,apparel,Beer,1500.00,Paid,Apparel,Beer
+Jul,Expense,Food,Kfc date with myself,259.00,Paid,Food,Kfc Date With Myself
+Jul,Income,salary,office,55000.00,Received,Salary,Office
+Jul,Income,Other,From vicky,300.00,Received,Other,From Vicky
+Aug,Expense,Household,Rent,4580.00,Paid,Household,Rent
+Aug,Expense,Food,Lunch with gowdham,535.30,Paid,Food,Lunch With Gowdham
+Aug,Income,Other,From gowdham,260.00,Received,Other,From Gowdham
+Aug,Income,salary,office,55000.00,Received,Salary,Office
+Aug,Income,Other,From dad,500.00,Received,Other,From Dad
+Aug,Expense,Other,Gave to gowdham,50.00,Paid,Other,Gave To Gowdham
+Aug,Expense,Transportation,Travel to koyambedu,138.00,Paid,Transportation,Travel To Koyambedu
+Aug,Expense,Food,Tamen,324.70,Paid,Food,Tamen
+Aug,Expense,Food,Snacks,40.00,Paid,Food,Snacks
+Aug,Expense,Transportation,Rapido to pg,43.00,Paid,Transportation,Rapido To Pg
+Aug,Income,Other,From Deepak,2250.00,Received,Other,From Deepak
+Sep,Expense,Household,Bean bag,2099.00,Paid,Household,Bean Bag
+Sep,Income,Other,From vicky,100.00,Received,Other,From Vicky
+Sep,Income,Other,Kumara,170.00,Received,Other,Kumara
+Sep,Expense,Food,Sent to vicky,300.00,Paid,Food,Sent To Vicky
+Sep,Expense,Food,Dinner,465.00,Paid,Food,Dinner
+Sep,Expense,Food,Pepsi,40.00,Paid,Food,Pepsi
+Sep,Expense,Food,Lunch with company,133.00,Paid,Food,Lunch With Company
+Sep,Income,salary,office,55000.00,Received,Salary,Office
+Sep,Expense,Transportation,Train to vnr,3325.00,Paid,Transportation,Train To Vnr
+Sep,Expense,Other,To vicky,300.00,Paid,Other,To Vicky
+Oct,Expense,Food,Friday snacks with preethi gang,106.00,Paid,Food,Friday Snacks With Preethi Gang
+Oct,Income,salary,office,55140.00,Received,Salary,Office
+Oct,Income,Other,From barath,201.00,Received,Other,From Barath
+Oct,Expense,Household,Bean bag,2099.00,Paid,Household,Bean Bag
+Oct,Expense,Food,Kfc dinner,641.00,Paid,Food,Kfc Dinner
+Oct,Expense,Food,Panipoori,80.00,Paid,Food,Panipoori
+Oct,Expense,Food,Milk with bharath,110.00,Paid,Food,Milk With Bharath
+Oct,Expense,Other,To kumara,10000.00,Paid,Other,To Kumara
+Oct,Income,Other,From ganesan,40.00,Received,Other,From Ganesan
+Oct,Income,Other,From abi,20.00,Received,Other,From Abi
+Oct,Expense,Transportation,Rapido + toll,286.00,Paid,Transportation,Rapido + Toll
+Oct,Expense,Transportation,Bommasandra to pg,199.00,Paid,Transportation,Bommasandra To Pg
+Nov,Expense,Food,Lunch with not preethi,135.50,Paid,Food,Lunch With Not Preethi
+Nov,Expense,Household,Bean bag,4099.00,Paid,Household,Bean Bag
+Nov,Expense,Food,Dinner with aravind,373.00,Paid,Food,Dinner With Aravind
+Nov,Income,Other,From dad,1000.00,Received,Other,From Dad
+Nov,Expense,Food,Lunch pongal,1530.00,Paid,Food,Lunch Pongal
+Nov,Income,Other,From gowdham,340.00,Received,Other,From Gowdham
+Nov,Income,Salary,office,55240.00,Received,Salary,Office
+Nov,Income,Other,Siva + 100 cash,70.00,Received,Other,Siva + 100 Cash
+Nov,Income,Other,From dad,1000.00,Received,Other,From Dad
+Nov,Expense,Transportation,Rapido,35.00,Paid,Transportation,Rapido
+Nov,Expense,Food,Dinner with gowdham,130.00,Paid,Food,Dinner With Gowdham
+Nov,Expense,Food,Dinner with gowdham,120.00,Paid,Food,Dinner With Gowdham
+Nov,Expense,Food,Zomato,269.40,Paid,Food,Zomato
+Nov,Expense,Food,Snack,94.00,Paid,Food,Snack
+Nov,Expense,Food,Breakfast,40.00,Paid,Food,Breakfast
+Nov,Expense,Food,Panipoori,40.00,Paid,Food,Panipoori
+Nov,Expense,Food,Lunch with company,40.00,Paid,Food,Lunch With Company
+Nov,Expense,Food,Dinner,50.00,Paid,Food,Dinner
+Nov,Expense,Transportation,Rapido to pg,44.00,Paid,Transportation,Rapido To Pg
+Nov,Expense,Food,Breakfast,70.00,Paid,Food,Breakfast
+Nov,Expense,Food,Lunch with company,128.00,Paid,Food,Lunch With Company
+Nov,Expense,apparel,Bharath birthday,115.00,Paid,Apparel,Bharath Birthday
+Dec,Expense,Food,Pizza,301.75,Paid,Food,Pizza
+Dec,Income,Other,From kumara,200.00,Received,Other,From Kumara
+Dec,Expense,Other,Recharge by gowdham,479.00,Paid,Other,Recharge By Gowdham
+Dec,Income,Other,From dad,10000.00,Received,Other,From Dad
+Dec,Expense,Food,Lunch,80.00,Paid,Food,Lunch
+Dec,Expense,Household,Mirror,7770.00,Paid,Household,Mirror
+Dec,Expense,Food,Milk with bharath,25.00,Paid,Food,Milk With Bharath
+Dec,Expense,Food,Milk with bharath,65.00,Paid,Food,Milk With Bharath
+Dec,Expense,Food,Snacks,75.00,Paid,Food,Snacks
+Dec,Expense,Food,Lunch,400.00,Paid,Food,Lunch
+Dec,Expense,Food,Lunch,30.00,Paid,Food,Lunch
+Dec,Expense,Food,Panipoori,20.00,Paid,Food,Panipoori
+Dec,Expense,Food,Egg,300.00,Paid,Food,Egg
+Dec,Expense,Food,Lunch with company,110.00,Paid,Food,Lunch With Company
+Dec,Expense,Food,Milk with bharath,700.00,Paid,Food,Milk With Bharath
+Dec,Expense,Food,Lunch,160.00,Paid,Food,Lunch
+Dec,Income,Other,Lended money,400.00,Received,Other,Lended Money
+Dec,Expense,Food,To rahul,113.00,Paid,Food,To Rahul
+Dec,Income,Allowance,From dad,5000.00,Received,Allowance,From Dad
+Dec,Expense,Other,To abijith,200.00,Paid,Other,To Abijith
+Dec,Expense,Other,To siva,10000.00,Paid,Other,To Siva
+Dec,Expense,Food,Milk with bharath,40.00,Paid,Food,Milk With Bharath
+Dec,Expense,Food,Lunch with barath,85.00,Paid,Food,Lunch With Barath
+Dec,Expense,Food,Water,20.00,Paid,Food,Water
+Dec,Expense,Food,Snacks,20.00,Paid,Food,Snacks
+Dec,Expense,Transportation,Taxi,800.00,Paid,Transportation,Taxi
+Dec,Expense,Food,Milk with bharath,80.00,Paid,Food,Milk With Bharath
+Dec,Expense,Food,Bun,18.00,Paid,Food,Bun
+Dec,Expense,Food,Puffs,25.00,Paid,Food,Puffs
+Dec,Expense,Food,Dinner with barath,239.00,Paid,Food,Dinner With Barath
+Dec,Expense,Food,Puffs and coffee,32.00,Paid,Food,Puffs And Coffee
+Dec,Expense,Food,Lemon tea with company,15.00,Paid,Food,Lemon Tea With Company
+Dec,Expense,Food,Lunch with company,262.00,Paid,Food,Lunch With Company
+Dec,Expense,Food,Milk with bharath,40.00,Paid,Food,Milk With Bharath
+Dec,Expense,Food,Water,30.00,Paid,Food,Water
+Dec,Expense,Food,Corn,300.00,Paid,Food,Corn
+Dec,Expense,Apparel,Books,400.00,Paid,Apparel,Books
+Dec,Expense,Food,Dinner with barath,504.00,Paid,Food,Dinner With Barath
+Dec,Expense,Food,Coconut water with stu,50.00,Paid,Food,Coconut Water With Stu
+Dec,Income,Other,From vicky,80.00,Received,Other,From Vicky
+Dec,Expense,Food,Lunch with barath,115.00,Paid,Food,Lunch With Barath
+Dec,Expense,Food,Coffee and thattai,14.00,Paid,Food,Coffee And Thattai
+Dec,Expense,Food,Water,20.00,Paid,Food,Water
+Dec,Income,Other,From Deepak,250.00,Received,Other,From Deepak
+Dec,Expense,Food,Horlicks + kolakattai,25.00,Paid,Food,Horlicks + Kolakattai
+Dec,Income,Salary,office,55530.00,Received,Salary,Office
+Dec,Expense,Transportation,Pg to office,43.00,Paid,Transportation,Pg To Office
+Dec,Expense,Food,To barath,20.00,Paid,Food,To Barath
+Jan,Expense,Housing,Cleaning,1078.00,Paid,Housing,Cleaning
+Jan,Expense,Housing,Electric,1932.00,Paid,Housing,Electric
+Jan,Expense,Housing,Insurance,783.00,Paid,Housing,Insurance
+Jan,Expense,Housing,Internet,288.00,Paid,Housing,Internet
+Jan,Expense,Housing,Water,641.00,Paid,Housing,Water
+Jan,Expense,Housing,Parking Fee,644.00,Paid,Housing,Parking Fee
+Jan,Expense,Housing,Rent,978.00,Paid,Housing,Rent
+Jan,Expense,Housing,TV Subscription,1589.00,Paid,Housing,Tv Subscription
+Jan,Expense,Housing,Other,1354.00,Paid,Housing,Other
+Jan,Expense,Personal,School loans,1882.00,Paid,Personal,School Loans
+Jan,Expense,Personal,Shopping,164.00,Paid,Personal,Shopping
+Jan,Expense,Personal,Outing,96.00,Paid,Personal,Outing
+Jan,Expense,Transportation,Cleaning,1842.00,Paid,Transportation,Cleaning
+Jan,Expense,Transportation,Gas,1985.00,Paid,Transportation,Gas
+Jan,Expense,Transportation,vehicle insurance,543.00,Paid,Transportation,Vehicle Insurance
+Jan,Expense,Transportation,Maintenance,331.00,Paid,Transportation,Maintenance
+Jan,Expense,Transportation,Parking,337.00,Paid,Transportation,Parking
+Jan,Expense,Transportation,Installment,1260.00,Paid,Transportation,Installment
+Jan,Expense,Transportation,Registration,1450.00,Paid,Transportation,Registration
+Jan,Expense,Transportation,Toll,1443.00,Paid,Transportation,Toll
+Jan,Expense,Transportation,Other,929.00,Paid,Transportation,Other
+Jan,Expense,Main Income,Salary,39247.00,Paid,Main Income,Salary
+Jan,Expense,Main Income,My Shop,46716.00,Paid,Main Income,My Shop
+Jan,Expense,Side Income,E-commerce,39808.00,Paid,Side Income,E-Commerce
+Jan,Expense,Side Income,Google Adsecne,86596.00,Paid,Side Income,Google Adsecne
+Feb,Expense,Housing,Cleaning,647.00,Paid,Housing,Cleaning
+Feb,Expense,Housing,Electric,1746.00,Paid,Housing,Electric
+Feb,Expense,Housing,Insurance,924.00,Paid,Housing,Insurance
+Feb,Expense,Housing,Internet,1522.00,Paid,Housing,Internet
+Feb,Expense,Housing,Water,1103.00,Paid,Housing,Water
+Feb,Expense,Housing,Parking Fee,942.00,Paid,Housing,Parking Fee
+Feb,Expense,Housing,Rent,1218.00,Paid,Housing,Rent
+Feb,Expense,Housing,TV Subscription,1628.00,Paid,Housing,Tv Subscription
+Feb,Expense,Housing,Other,798.00,Paid,Housing,Other
+Feb,Expense,Personal,School loans,1257.00,Paid,Personal,School Loans
+Feb,Expense,Personal,Shopping,941.00,Paid,Personal,Shopping
+Feb,Expense,Personal,Outing,1150.00,Paid,Personal,Outing
+Feb,Expense,Transportation,Cleaning,1232.00,Paid,Transportation,Cleaning
+Feb,Expense,Transportation,Gas,936.00,Paid,Transportation,Gas
+Feb,Expense,Transportation,vehicle insurance,1277.00,Paid,Transportation,Vehicle Insurance
+Feb,Expense,Transportation,Maintenance,1130.00,Paid,Transportation,Maintenance
+Feb,Expense,Transportation,Parking,1240.00,Paid,Transportation,Parking
+Feb,Expense,Transportation,Installment,1871.00,Paid,Transportation,Installment
+Feb,Expense,Transportation,Registration,1932.00,Paid,Transportation,Registration
+Feb,Expense,Transportation,Toll,1791.00,Paid,Transportation,Toll
+Feb,Expense,Transportation,Other,1150.00,Paid,Transportation,Other
+Feb,Expense,Main Income,Salary,6140.00,Paid,Main Income,Salary
+Feb,Expense,Main Income,My Shop,6723.00,Paid,Main Income,My Shop
+Feb,Expense,Side Income,E-commerce,6121.00,Paid,Side Income,E-Commerce
+Feb,Expense,Side Income,Google Adsecne,6566.00,Paid,Side Income,Google Adsecne
+Mar,Expense,Housing,Cleaning,2942.00,Paid,Housing,Cleaning
+Mar,Expense,Housing,Electric,3332.00,Paid,Housing,Electric
+Mar,Expense,Housing,Insurance,4831.00,Paid,Housing,Insurance
+Mar,Expense,Housing,Internet,4871.00,Paid,Housing,Internet
+Mar,Expense,Housing,Water,3898.00,Paid,Housing,Water
+Mar,Expense,Housing,Parking Fee,4345.00,Paid,Housing,Parking Fee
+Mar,Expense,Housing,Rent,3203.00,Paid,Housing,Rent
+Mar,Expense,Housing,TV Subscription,3688.00,Paid,Housing,Tv Subscription
+Mar,Expense,Housing,Other,3552.00,Paid,Housing,Other
+Mar,Expense,Personal,School loans,4829.00,Paid,Personal,School Loans
+Mar,Expense,Personal,Shopping,4623.00,Paid,Personal,Shopping
+Mar,Expense,Personal,Outing,3837.00,Paid,Personal,Outing
+Mar,Expense,Transportation,Cleaning,4206.00,Paid,Transportation,Cleaning
+Mar,Expense,Transportation,Gas,2816.00,Paid,Transportation,Gas
+Mar,Expense,Transportation,vehicle insurance,4101.00,Paid,Transportation,Vehicle Insurance
+Mar,Expense,Transportation,Maintenance,3930.00,Paid,Transportation,Maintenance
+Mar,Expense,Transportation,Parking,3151.00,Paid,Transportation,Parking
+Mar,Expense,Transportation,Installment,4606.00,Paid,Transportation,Installment
+Mar,Expense,Transportation,Registration,2643.00,Paid,Transportation,Registration
+Mar,Expense,Transportation,Toll,4006.00,Paid,Transportation,Toll
+Mar,Expense,Transportation,Other,2882.00,Paid,Transportation,Other
+Mar,Expense,Main Income,Salary,13279.00,Paid,Main Income,Salary
+Mar,Expense,Main Income,My Shop,15415.00,Paid,Main Income,My Shop
+Mar,Expense,Side Income,E-commerce,14977.00,Paid,Side Income,E-Commerce
+Mar,Expense,Side Income,Google Adsecne,17279.00,Paid,Side Income,Google Adsecne
+Apr,Expense,Housing,Cleaning,5142.00,Paid,Housing,Cleaning
+Apr,Expense,Housing,Electric,3837.00,Paid,Housing,Electric
+Apr,Expense,Housing,Insurance,4578.00,Paid,Housing,Insurance
+Apr,Expense,Housing,Internet,5517.00,Paid,Housing,Internet
+Apr,Expense,Housing,Water,5032.00,Paid,Housing,Water
+Apr,Expense,Housing,Parking Fee,4687.00,Paid,Housing,Parking Fee
+Apr,Expense,Housing,Rent,4996.00,Paid,Housing,Rent
+Apr,Expense,Housing,TV Subscription,5739.00,Paid,Housing,Tv Subscription
+Apr,Expense,Housing,Other,4121.00,Paid,Housing,Other
+Apr,Expense,Personal,School loans,4066.00,Paid,Personal,School Loans
+Apr,Expense,Personal,Shopping,4768.00,Paid,Personal,Shopping
+Apr,Expense,Personal,Outing,3422.00,Paid,Personal,Outing
+Apr,Expense,Transportation,Cleaning,4810.00,Paid,Transportation,Cleaning
+Apr,Expense,Transportation,Gas,4534.00,Paid,Transportation,Gas
+Apr,Expense,Transportation,vehicle insurance,5071.00,Paid,Transportation,Vehicle Insurance
+Apr,Expense,Transportation,Maintenance,3652.00,Paid,Transportation,Maintenance
+Apr,Expense,Transportation,Parking,4115.00,Paid,Transportation,Parking
+Apr,Expense,Transportation,Installment,4019.00,Paid,Transportation,Installment
+Apr,Expense,Transportation,Registration,4422.00,Paid,Transportation,Registration
+Apr,Expense,Transportation,Toll,4100.00,Paid,Transportation,Toll
+Apr,Expense,Transportation,Other,5805.00,Paid,Transportation,Other
+Apr,Expense,Main Income,Salary,51658.00,Paid,Main Income,Salary
+Apr,Expense,Main Income,My Shop,30426.00,Paid,Main Income,My Shop
+Apr,Expense,Side Income,E-commerce,11098.00,Paid,Side Income,E-Commerce
+Apr,Expense,Side Income,Google Adsecne,10402.00,Paid,Side Income,Google Adsecne
+May,Expense,Housing,Cleaning,4117.00,Paid,Housing,Cleaning
+May,Expense,Housing,Electric,4126.00,Paid,Housing,Electric
+May,Expense,Housing,Insurance,4600.00,Paid,Housing,Insurance
+May,Expense,Housing,Internet,4607.00,Paid,Housing,Internet
+May,Expense,Housing,Water,4231.00,Paid,Housing,Water
+May,Expense,Housing,Parking Fee,4467.00,Paid,Housing,Parking Fee
+May,Expense,Housing,Rent,4669.00,Paid,Housing,Rent
+May,Expense,Housing,TV Subscription,4113.00,Paid,Housing,Tv Subscription
+May,Expense,Housing,Other,4788.00,Paid,Housing,Other
+May,Expense,Personal,School loans,4600.00,Paid,Personal,School Loans
+May,Expense,Personal,Shopping,4998.00,Paid,Personal,Shopping
+May,Expense,Personal,Outing,4119.00,Paid,Personal,Outing
+May,Expense,Transportation,Cleaning,4059.00,Paid,Transportation,Cleaning
+May,Expense,Transportation,Gas,4701.00,Paid,Transportation,Gas
+May,Expense,Transportation,vehicle insurance,4983.00,Paid,Transportation,Vehicle Insurance
+May,Expense,Transportation,Maintenance,4053.00,Paid,Transportation,Maintenance
+May,Expense,Transportation,Parking,4846.00,Paid,Transportation,Parking
+May,Expense,Transportation,Installment,4706.00,Paid,Transportation,Installment
+May,Expense,Transportation,Registration,4524.00,Paid,Transportation,Registration
+May,Expense,Transportation,Toll,4840.00,Paid,Transportation,Toll
+May,Expense,Transportation,Other,4327.00,Paid,Transportation,Other
+May,Expense,Main Income,Salary,6830.00,Paid,Main Income,Salary
+May,Expense,Main Income,My Shop,624.00,Paid,Main Income,My Shop
+May,Expense,Side Income,E-commerce,6270.00,Paid,Side Income,E-Commerce
+May,Expense,Side Income,Google Adsecne,605.00,Paid,Side Income,Google Adsecne
+Jun,Expense,Housing,Cleaning,319.00,Paid,Housing,Cleaning
+Jun,Expense,Housing,Electric,234.00,Paid,Housing,Electric
+Jun,Expense,Housing,Insurance,230.00,Paid,Housing,Insurance
+Jun,Expense,Housing,Internet,281.00,Paid,Housing,Internet
+Jun,Expense,Housing,Water,186.00,Paid,Housing,Water
+Jun,Expense,Housing,Parking Fee,178.00,Paid,Housing,Parking Fee
+Jun,Expense,Housing,Rent,159.00,Paid,Housing,Rent
+Jun,Expense,Housing,TV Subscription,139.00,Paid,Housing,Tv Subscription
+Jun,Expense,Housing,Other,180.00,Paid,Housing,Other
+Jun,Expense,Personal,School loans,222.00,Paid,Personal,School Loans
+Jun,Expense,Personal,Shopping,306.00,Paid,Personal,Shopping
+Jun,Expense,Personal,Outing,251.00,Paid,Personal,Outing
+Jun,Expense,Transportation,Cleaning,286.00,Paid,Transportation,Cleaning
+Jun,Expense,Transportation,Gas,325.00,Paid,Transportation,Gas
+Jun,Expense,Transportation,vehicle insurance,199.00,Paid,Transportation,Vehicle Insurance
+Jun,Expense,Transportation,Maintenance,178.00,Paid,Transportation,Maintenance
+Jun,Expense,Transportation,Parking,281.00,Paid,Transportation,Parking
+Jun,Expense,Transportation,Installment,139.00,Paid,Transportation,Installment
+Jun,Expense,Transportation,Registration,293.00,Paid,Transportation,Registration
+Jun,Expense,Transportation,Toll,342.00,Paid,Transportation,Toll
+Jun,Expense,Transportation,Other,295.00,Paid,Transportation,Other
+Jun,Expense,Main Income,Salary,14988.00,Paid,Main Income,Salary
+Jun,Expense,Main Income,My Shop,11494.00,Paid,Main Income,My Shop
+Jun,Expense,Side Income,E-commerce,12197.00,Paid,Side Income,E-Commerce
+Jun,Expense,Side Income,Google Adsecne,13564.00,Paid,Side Income,Google Adsecne
+Jul,Expense,Housing,Cleaning,115.00,Paid,Housing,Cleaning
+Jul,Expense,Housing,Electric,164.00,Paid,Housing,Electric
+Jul,Expense,Housing,Insurance,195.00,Paid,Housing,Insurance
+Jul,Expense,Housing,Internet,127.00,Paid,Housing,Internet
+Jul,Expense,Housing,Water,238.00,Paid,Housing,Water
+Jul,Expense,Housing,Parking Fee,136.00,Paid,Housing,Parking Fee
+Jul,Expense,Housing,Rent,297.00,Paid,Housing,Rent
+Jul,Expense,Housing,TV Subscription,199.00,Paid,Housing,Tv Subscription
+Jul,Expense,Housing,Other,232.00,Paid,Housing,Other
+Jul,Expense,Personal,School loans,279.00,Paid,Personal,School Loans
+Jul,Expense,Personal,Shopping,151.00,Paid,Personal,Shopping
+Jul,Expense,Personal,Outing,201.00,Paid,Personal,Outing
+Jul,Expense,Transportation,Cleaning,141.00,Paid,Transportation,Cleaning
+Jul,Expense,Transportation,Gas,181.00,Paid,Transportation,Gas
+Jul,Expense,Transportation,vehicle insurance,217.00,Paid,Transportation,Vehicle Insurance
+Jul,Expense,Transportation,Maintenance,167.00,Paid,Transportation,Maintenance
+Jul,Expense,Transportation,Parking,231.00,Paid,Transportation,Parking
+Jul,Expense,Transportation,Installment,213.00,Paid,Transportation,Installment
+Jul,Expense,Transportation,Registration,155.00,Paid,Transportation,Registration
+Jul,Expense,Transportation,Toll,169.00,Paid,Transportation,Toll
+Jul,Expense,Transportation,Other,237.00,Paid,Transportation,Other
+Jul,Expense,Main Income,Salary,93.00,Paid,Main Income,Salary
+Jul,Expense,Main Income,My Shop,143.00,Paid,Main Income,My Shop
+Jul,Expense,Side Income,E-commerce,97.00,Paid,Side Income,E-Commerce
+Jul,Expense,Side Income,Google Adsecne,100.00,Paid,Side Income,Google Adsecne
+Sep,Expense,Housing,Cleaning,279.00,Paid,Housing,Cleaning
+Sep,Expense,Housing,Electric,120.00,Paid,Housing,Electric
+Sep,Expense,Housing,Insurance,198.00,Paid,Housing,Insurance
+Sep,Expense,Housing,Internet,169.00,Paid,Housing,Internet
+Sep,Expense,Housing,Water,272.00,Paid,Housing,Water
+Sep,Expense,Housing,Parking Fee,286.00,Paid,Housing,Parking Fee
+Sep,Expense,Housing,Rent,151.00,Paid,Housing,Rent
+Sep,Expense,Housing,TV Subscription,252.00,Paid,Housing,Tv Subscription
+Sep,Expense,Housing,Other,206.00,Paid,Housing,Other
+Sep,Expense,Personal,School loans,283.00,Paid,Personal,School Loans
+Sep,Expense,Personal,Shopping,187.00,Paid,Personal,Shopping
+Sep,Expense,Personal,Outing,271.00,Paid,Personal,Outing
+Sep,Expense,Transportation,Cleaning,154.00,Paid,Transportation,Cleaning
+Sep,Expense,Transportation,Gas,332.00,Paid,Transportation,Gas
+Sep,Expense,Transportation,vehicle insurance,140.00,Paid,Transportation,Vehicle Insurance
+Sep,Expense,Transportation,Maintenance,168.00,Paid,Transportation,Maintenance
+Sep,Expense,Transportation,Parking,298.00,Paid,Transportation,Parking
+Sep,Expense,Transportation,Installment,164.00,Paid,Transportation,Installment
+Sep,Expense,Transportation,Registration,291.00,Paid,Transportation,Registration
+Sep,Expense,Transportation,Toll,325.00,Paid,Transportation,Toll
+Sep,Expense,Transportation,Other,306.00,Paid,Transportation,Other
+Sep,Expense,Main Income,Salary,2265.00,Paid,Main Income,Salary
+Sep,Expense,Main Income,My Shop,789.00,Paid,Main Income,My Shop
+Sep,Expense,Side Income,E-commerce,3748.00,Paid,Side Income,E-Commerce
+Sep,Expense,Side Income,Google Adsecne,2323.00,Paid,Side Income,Google Adsecne
+Oct,Expense,Housing,Cleaning,289.00,Paid,Housing,Cleaning
+Oct,Expense,Housing,Electric,193.00,Paid,Housing,Electric
+Oct,Expense,Housing,Insurance,363.00,Paid,Housing,Insurance
+Oct,Expense,Housing,Internet,115.00,Paid,Housing,Internet
+Oct,Expense,Housing,Water,145.00,Paid,Housing,Water
+Oct,Expense,Housing,Parking Fee,163.00,Paid,Housing,Parking Fee
+Oct,Expense,Housing,Rent,119.00,Paid,Housing,Rent
+Oct,Expense,Housing,TV Subscription,350.00,Paid,Housing,Tv Subscription
+Oct,Expense,Housing,Other,124.00,Paid,Housing,Other
+Oct,Expense,Personal,School loans,305.00,Paid,Personal,School Loans
+Oct,Expense,Personal,Shopping,362.00,Paid,Personal,Shopping
+Oct,Expense,Personal,Outing,380.00,Paid,Personal,Outing
+Oct,Expense,Transportation,Cleaning,87.00,Paid,Transportation,Cleaning
+Oct,Expense,Transportation,Gas,347.00,Paid,Transportation,Gas
+Oct,Expense,Transportation,vehicle insurance,363.00,Paid,Transportation,Vehicle Insurance
+Oct,Expense,Transportation,Maintenance,204.00,Paid,Transportation,Maintenance
+Oct,Expense,Transportation,Parking,105.00,Paid,Transportation,Parking
+Oct,Expense,Transportation,Installment,315.00,Paid,Transportation,Installment
+Oct,Expense,Transportation,Registration,226.00,Paid,Transportation,Registration
+Oct,Expense,Transportation,Toll,283.00,Paid,Transportation,Toll
+Oct,Expense,Transportation,Other,88.00,Paid,Transportation,Other
+Oct,Expense,Main Income,Salary,184.00,Paid,Main Income,Salary
+Oct,Expense,Main Income,My Shop,704.00,Paid,Main Income,My Shop
+Oct,Expense,Side Income,E-commerce,1889.00,Paid,Side Income,E-Commerce
+Oct,Expense,Side Income,Google Adsecne,2557.00,Paid,Side Income,Google Adsecne
+Nov,Expense,Housing,Cleaning,3332.00,Paid,Housing,Cleaning
+Nov,Expense,Housing,Electric,4288.00,Paid,Housing,Electric
+Nov,Expense,Housing,Insurance,2169.00,Paid,Housing,Insurance
+Nov,Expense,Housing,Internet,4248.00,Paid,Housing,Internet
+Nov,Expense,Housing,Water,2574.00,Paid,Housing,Water
+Nov,Expense,Housing,Parking Fee,3101.00,Paid,Housing,Parking Fee
+Nov,Expense,Housing,Rent,2150.00,Paid,Housing,Rent
+Nov,Expense,Housing,TV Subscription,4174.00,Paid,Housing,Tv Subscription
+Nov,Expense,Housing,Other,3597.00,Paid,Housing,Other
+Nov,Expense,Personal,School loans,3919.00,Paid,Personal,School Loans
+Nov,Expense,Personal,Shopping,1439.00,Paid,Personal,Shopping
+Nov,Expense,Personal,Outing,1399.00,Paid,Personal,Outing
+Nov,Expense,Transportation,Cleaning,3846.00,Paid,Transportation,Cleaning
+Nov,Expense,Transportation,Gas,2031.00,Paid,Transportation,Gas
+Nov,Expense,Transportation,vehicle insurance,3078.00,Paid,Transportation,Vehicle Insurance
+Nov,Expense,Transportation,Maintenance,4054.00,Paid,Transportation,Maintenance
+Nov,Expense,Transportation,Parking,4467.00,Paid,Transportation,Parking
+Nov,Expense,Transportation,Installment,2286.00,Paid,Transportation,Installment
+Nov,Expense,Transportation,Registration,3074.00,Paid,Transportation,Registration
+Nov,Expense,Transportation,Toll,4195.00,Paid,Transportation,Toll
+Nov,Expense,Transportation,Other,1541.00,Paid,Transportation,Other
+Nov,Expense,Main Income,Salary,90347.00,Paid,Main Income,Salary
+Nov,Expense,Main Income,My Shop,87937.00,Paid,Main Income,My Shop
+Nov,Expense,Side Income,E-commerce,8793.00,Paid,Side Income,E-Commerce
+Nov,Expense,Side Income,Google Adsecne,7013.00,Paid,Side Income,Google Adsecne
+Aug,Expense,Housing,Cleaning,10948.00,Paid,Housing,Cleaning
+Aug,Expense,Housing,Electric,171.00,Paid,Housing,Electric
+Aug,Expense,Housing,Insurance,91.00,Paid,Housing,Insurance
+Aug,Expense,Housing,Internet,94.00,Paid,Housing,Internet
+Aug,Expense,Housing,Water,69.00,Paid,Housing,Water
+Aug,Expense,Housing,Parking Fee,230.00,Paid,Housing,Parking Fee
+Aug,Expense,Housing,Rent,141.00,Paid,Housing,Rent
+Aug,Expense,Housing,TV Subscription,214.00,Paid,Housing,Tv Subscription
+Aug,Expense,Housing,Other,249.00,Paid,Housing,Other
+Aug,Expense,Personal,School loans,170.00,Paid,Personal,School Loans
+Aug,Expense,Personal,Shopping,234.00,Paid,Personal,Shopping
+Aug,Expense,Personal,Outing,204.00,Paid,Personal,Outing
+Aug,Expense,Transportation,Cleaning,268.00,Paid,Transportation,Cleaning
+Aug,Expense,Transportation,Gas,231.00,Paid,Transportation,Gas
+Aug,Expense,Transportation,vehicle insurance,150.00,Paid,Transportation,Vehicle Insurance
+Aug,Expense,Transportation,Maintenance,277.00,Paid,Transportation,Maintenance
+Aug,Expense,Transportation,Parking,282.00,Paid,Transportation,Parking
+Aug,Expense,Transportation,Installment,277.00,Paid,Transportation,Installment
+Aug,Expense,Transportation,Registration,90.00,Paid,Transportation,Registration
+Aug,Expense,Transportation,Toll,279.00,Paid,Transportation,Toll
+Aug,Expense,Transportation,Other,153.00,Paid,Transportation,Other
+Aug,Expense,Main Income,Salary,29046.00,Paid,Main Income,Salary
+Aug,Expense,Main Income,My Shop,32539.00,Paid,Main Income,My Shop
+Aug,Expense,Side Income,E-commerce,36248.00,Paid,Side Income,E-Commerce
+Aug,Expense,Side Income,Google Adsecne,25052.00,Paid,Side Income,Google Adsecne
+Dec,Expense,Housing,Cleaning,5411.00,Paid,Housing,Cleaning
+Dec,Expense,Housing,Electric,5268.00,Paid,Housing,Electric
+Dec,Expense,Housing,Insurance,5422.00,Paid,Housing,Insurance
+Dec,Expense,Housing,Internet,5231.00,Paid,Housing,Internet
+Dec,Expense,Housing,Water,6259.00,Paid,Housing,Water
+Dec,Expense,Housing,Parking Fee,5775.00,Paid,Housing,Parking Fee
+Dec,Expense,Housing,Rent,6782.00,Paid,Housing,Rent
+Dec,Expense,Housing,TV Subscription,5493.00,Paid,Housing,Tv Subscription
+Dec,Expense,Housing,Other,5324.00,Paid,Housing,Other
+Dec,Expense,Personal,School loans,6760.00,Paid,Personal,School Loans
+Dec,Expense,Personal,Shopping,5531.00,Paid,Personal,Shopping
+Dec,Expense,Personal,Outing,6299.00,Paid,Personal,Outing
+Dec,Expense,Transportation,Cleaning,6541.00,Paid,Transportation,Cleaning
+Dec,Expense,Transportation,Gas,5703.00,Paid,Transportation,Gas
+Dec,Expense,Transportation,vehicle insurance,5298.00,Paid,Transportation,Vehicle Insurance
+Dec,Expense,Transportation,Maintenance,5285.00,Paid,Transportation,Maintenance
+Dec,Expense,Transportation,Parking,5633.00,Paid,Transportation,Parking
+Dec,Expense,Transportation,Installment,5209.00,Paid,Transportation,Installment
+Dec,Expense,Transportation,Registration,6266.00,Paid,Transportation,Registration
+Dec,Expense,Transportation,Toll,6360.00,Paid,Transportation,Toll
+Dec,Expense,Transportation,Other,5667.00,Paid,Transportation,Other
+Dec,Expense,Main Income,Salary,1076.00,Paid,Main Income,Salary
+Dec,Expense,Main Income,My Shop,2119.00,Paid,Main Income,My Shop
+Dec,Expense,Side Income,E-commerce,1114.00,Paid,Side Income,E-Commerce
+Dec,Expense,Side Income,Google Adsecne,2965.00,Paid,Side Income,Google Adsecne
+Jan,Target Income,Goal,Planned Income,17029.00,Planned,Goal,Planned Income
+Feb,Target Income,Goal,Planned Income,22195.00,Planned,Goal,Planned Income
+Mar,Target Income,Goal,Planned Income,29472.00,Planned,Goal,Planned Income
+Apr,Target Income,Goal,Planned Income,18529.00,Planned,Goal,Planned Income
+May,Target Income,Goal,Planned Income,18112.00,Planned,Goal,Planned Income
+Jun,Target Income,Goal,Planned Income,12864.00,Planned,Goal,Planned Income
+Jul,Target Income,Goal,Planned Income,28427.00,Planned,Goal,Planned Income
+Sep,Target Income,Goal,Planned Income,20079.00,Planned,Goal,Planned Income
+Oct,Target Income,Goal,Planned Income,26829.00,Planned,Goal,Planned Income
+Nov,Target Income,Goal,Planned Income,11546.00,Planned,Goal,Planned Income
+Aug,Target Income,Goal,Planned Income,16257.00,Planned,Goal,Planned Income
+Dec,Target Income,Goal,Planned Income,10795.00,Planned,Goal,Planned Income
